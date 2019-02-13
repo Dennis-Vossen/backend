@@ -1,0 +1,24 @@
+#headers{
+	height:80px;
+	display:block;
+}
+.navigatie{
+	display: inline-block;
+	position:relative;
+}
+.list{
+	float:right;
+	list-style: none;
+}
+.item{
+	float:left;
+	display:block;
+	margin:5px 10px;
+}
+.item a{
+	padding:10px;
+}
+input{
+	display:block;
+	position:relative;
+}
